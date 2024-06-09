@@ -1,5 +1,5 @@
 # kudlacik_wpf_project
-
+##kudla
 ##Tento kód vytváří hru piškorky pro tři hráče, kteří střídavě klikají na tlačítka v mřížce a snaží se vytvořit řadu svých symbolů. Hra kontroluje vítězné podmínky a umožňuje restartování hry po jejím ukončení.
 
 ###Konstruktor MainWindow
