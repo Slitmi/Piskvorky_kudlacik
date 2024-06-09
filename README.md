@@ -1,2 +1,1 @@
-# Piskvorky_kudlacik
-Projekt
+# kudla_wpf_project
